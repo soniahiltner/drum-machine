@@ -1,4 +1,4 @@
-# Sequence Memory Game
+# Drum Machine
 
 Project for the Freecodecamp Front End Development Libraries Certification.
 
